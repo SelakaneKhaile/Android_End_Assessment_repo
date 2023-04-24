@@ -1,0 +1,7 @@
+#Sun Apr 23 16:52:08 GMT-11:00 2023
+base.1=C\:\\Users\\ind3x\\Desktop\\Final_Projects_All\\Android\\FoodApp\\FoodOrderApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\ind3x\\Desktop\\Final_Projects_All\\Android\\FoodApp\\FoodOrderApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

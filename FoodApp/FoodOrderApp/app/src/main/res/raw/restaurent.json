@@ -1,0 +1,212 @@
+[
+    {
+      "name":"Food Planet",
+      "address":"Kings Way",
+      "delivery_charge": 5,
+      "image":"https://news.berkeley.edu/wp-content/uploads/2016/11/foodpantry500.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Spaghetti",
+          "price": 13.00,
+          "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/"
+        },
+        {
+          "name": "Spaghettios Pizza",
+          "price": 13.99,
+          "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+        },
+        {
+          "name": "CHICKEN FINGER Large",
+          "price": 4.99,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Spaghetti and Soup",
+          "price": 25.00,
+          "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/"
+        },
+        {
+          "name": "CHICKEN FINGER SANDWICH",
+          "price": 4.00,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "FINGERZ BOXED LUNCH",
+          "price": 3.25,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "HOUSE ZALAD BOXED",
+          "price": 5.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "COBB ZALAD BOXED",
+          "price": 3.99,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "COOKIE AND BROWNIE ",
+          "price": 8.09,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "BROWNIE PLATTER",
+          "price": 6.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+        }
+      ]
+    },
+    {
+      "name":"Food Lovers",
+      "address":"Sefika Complex",
+      "delivery_charge": 4,
+      "image":"https://th.bing.com/th/id/OIP.yqPWc0V56W_3bFiGNE_arQHaCx?pid=ImgDet&rs=1",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Hot Dog",
+          "price": 8.00,
+          "url": "https://th.bing.com/th/id/OIP.4TCiBqsokm-c2pLWAEtURgAAAA?pid=ImgDet&w=468&h=358&rs=1"
+        },
+        {
+          "name": "Cheese Dog",
+          "price": 3.59,
+          "url": "https://th.bing.com/th/id/R.d02aa377e70dea6b5f553fdb017bfeb7?rik=wYpw%2fAbYxYmyZA&pid=ImgRaw&r=0"
+        },
+        {
+          "name": "Mixed Shake",
+          "price": 5.44,
+          "url": "https://th.bing.com/th/id/R.89fb58a2678065f26f0a38904da128a1?rik=uE8wDkPyZ7J8Jw&pid=ImgRaw&r=0"
+        },
+        {
+          "name": "Fries",
+          "price": 16.00,
+          "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+        },
+        {
+          "name": "Milkshake",
+          "price": 3.49,
+          "url": "https://th.bing.com/th/id/OIP.f1LlbD9O0lyYMbPEwlwkwQHaLH?pid=ImgDet&w=682&h=1024&rs=1"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 4.95,
+          "url": "https://i.pinimg.com/originals/ae/a5/0e/aea50e48f18d96c33e6e86b1fc4a6ee0.jpg"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 3.59,
+          "url": "https://th.bing.com/th/id/OIP.HIJXiSC7Ih5SaUfkL4FXzQHaHa?pid=ImgDet&rs=1"
+        },
+        {
+          "name": "Filet-O-Fish",
+          "price": 5.49,
+          "url": "https://th.bing.com/th/id/OIP.7aVurlodFTklj-5oB-BwxgHaEK?pid=ImgDet&rs=1"
+        }
+      ]
+    },
+  {
+    "name":"Corn Food",
+    "address":"LNDC Street",
+    "delivery_charge": 5,
+    "image":"https://th.bing.com/th/id/OIP.taLlgpi9OoEggTv5AE8k3AAAAA?pid=ImgDet&rs=1",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Mixed Verges",
+        "price": 34.95,
+        "url": "https://th.bing.com/th/id/R.500c5f88ea3a305b8ef69a144678bb13?rik=fAACRxdoFFMQNw&pid=ImgRaw&r=0"
+      },
+      {
+        "name": "Corn Smash",
+        "price": 20.59,
+        "url": "https://th.bing.com/th/id/OIP.axasBnim9_UB27ZYvOlyagHaJQ?pid=ImgDet&rs=1"
+      },
+      {
+        "name": "Voros Papa",
+        "price": 12.49,
+        "url": "https://th.bing.com/th/id/R.fe066d13ef889680ff18fc11a51dcf60?rik=T71QGFsPRLQwvQ&riu=http%3a%2f%2falberscorn.com%2fwp-content%2fuploads%2f2020%2f10%2fcorn-meal-mush.jpg&ehk=o2DLiKras%2fz0TtxvAdNtVoOzeVZaRXm%2bd96XzQgG5zk%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 68.29,
+        "url": "https://th.bing.com/th/id/OIP.dhaeZ3_FloglxwwwdTG5KAHaFj?pid=ImgDet&w=4160&h=3120&rs=1"
+      }
+    ]
+  },
+  {
+    "name":"Foodies",
+    "address":"Maseru Mall",
+    "delivery_charge": 6,
+    "image":"https://th.bing.com/th/id/OIP.urLIbVhFt1pIi4oCN1XKBwHaEK?w=322&h=180&c=7&r=0&o=5&pid=1.7",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 5.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 8.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 6.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  }
+]
